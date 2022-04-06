@@ -9,7 +9,7 @@
 
 GUI             |  CLI
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/53654076/161821769-20cb6d1a-9530-4b95-9f23-718f086d81e5.png" width="700">  |  <img src="https://user-images.githubusercontent.com/53654076/161823035-1b4df4db-2d2b-439b-8fd4-90e79a579534.png" width="700">
+<img src="https://user-images.githubusercontent.com/53654076/161821769-20cb6d1a-9530-4b95-9f23-718f086d81e5.png" width="700">  |  <img src="https://user-images.githubusercontent.com/53654076/161871010-d8b7e734-77ca-493b-ba87-29f4163c1853.png" width="700">
 
 <br />
 
